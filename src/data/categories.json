@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "image": "",
+    "name": "General Knowledge"
+  },
+  {
+    "id": 2,
+    "image": "",
+    "name": "History"
+  },
+  {
+    "id": 3,
+    "image": "",
+    "name": "Science"
+  },
+  {
+    "id": 4,
+    "image": "",
+    "name": "Geography"
+  },
+  {
+    "id": 5,
+    "image": "",
+    "name": "Movies"
+  },
+  {
+    "id": 6,
+    "image": "",
+    "name": "Music"
+  },
+  {
+    "id": 7,
+    "image": "",
+    "name": "Sports"
+  },
+  {
+    "id": 8,
+    "image": "",
+    "name": "Literature"
+  },
+  {
+    "id": 9,
+    "image": "",
+    "name": "TV Shows"
+  },
+  {
+    "id": 10,
+    "image": "",
+    "name": "Food and Drink"
+  },
+  {
+    "id": 11,
+    "image": "",
+    "name": "Technology"
+  },
+  {
+    "id": 12,
+    "image": "",
+    "name": "Pop Culture"
+  },
+  {
+    "id": 13,
+    "image": "",
+    "name": "Animals"
+  },
+  {
+    "id": 14,
+    "image": "",
+    "name": "Mythology"
+  },
+  {
+    "id": 15,
+    "image": "",
+    "name": "Mathematics"
+  },
+  {
+    "id": 16,
+    "image": "",
+    "name": "Travel"
+  }
+]
