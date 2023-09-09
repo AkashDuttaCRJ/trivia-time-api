@@ -11,4 +11,4 @@ COPY . .
 
 EXPOSE 3000
 
-ENTRYPOINT ["bun", "index.js"]
+ENTRYPOINT ["bun", "src/index.js"]
